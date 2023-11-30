@@ -47,7 +47,7 @@ Contributions, bug reports, and suggestions are welcome! Feel free to open issue
 
 ## License
 
-This script is released under the [MIT License](LICENSE).
+This repository is released under the GNU General Public License (GPL) version 3.0.
 
 ---
 
