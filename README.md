@@ -11,7 +11,7 @@ Welcome to the Speech-to-Text to SRT Converter script repository! This Python sc
 This is to convert a speech-to-text output file to be in the form of SRT.
 See what is the input and what is the output:
 
-input (Txt)
+### input (Txt)
 {QTtext} {font:Tahoma}
 {plain} {size:20}
 {timeScale:30}
@@ -41,7 +41,7 @@ da sardinha,
 do carapau, lulas.
 [00:00:26.19]
 
-Output (SRT):
+### Output (SRT):
 
 1
 00:00:11,150 --> 00:00:14,010
